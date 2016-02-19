@@ -11,24 +11,25 @@ int main()
 			if (i % 5 == 0)
 			{
 				cout << "FizzBuzzWoof" << endl;
-			}
-			else{
+			}//second if
+			else
+			{
 				cout << "Fizz" << endl;
-			}
-		}
+			}//second else
+		}//first if
 		else
 		{
 			if (i % 5 == 0)
 			{
 				cout << "Buzz" << endl;
-			}
+			}//third if
 			else
 			{
 				cout << i << endl;
-			}
-		}
+			}//third else
+		}//first else
 
-	}
+	}//for loop
 
 	
-}
+}//int main
