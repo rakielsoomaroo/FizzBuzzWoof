@@ -30,5 +30,5 @@ int main()
 
 	}
 
-	system("pause");
+	
 }
